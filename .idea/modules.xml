@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hanlp-practice.iml" filepath="$PROJECT_DIR$/hanlp-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlp-baiduapi/nlp-baiduapi.iml" filepath="$PROJECT_DIR$/nlp-baiduapi/nlp-baiduapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlp-hanlp/nlp-hanlp.iml" filepath="$PROJECT_DIR$/nlp-hanlp/nlp-hanlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlp-practice.iml" filepath="$PROJECT_DIR$/nlp-practice.iml" />
     </modules>
   </component>
 </project>
