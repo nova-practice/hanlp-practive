@@ -55,7 +55,6 @@ SDK源码地址: [https://github.com/Baidu-AIP/java-sdk](https://github.com/Baid
 #### 11. 文章分类
 对文章按照内容类型进行自动分类，首批支持娱乐、体育、科技等26个主流内容类型，为文章聚类、文本内容分析等应用提供基础技术支持
 
-#### 12. 
 
 
 ### hanlp练习
