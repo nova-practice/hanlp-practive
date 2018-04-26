@@ -1,4 +1,4 @@
-package org.quartz.nlp.api.baidu;
+package org.quartz.nlp.baidu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
