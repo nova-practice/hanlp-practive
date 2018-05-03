@@ -58,3 +58,8 @@ SDK源码地址: [https://github.com/Baidu-AIP/java-sdk](https://github.com/Baid
 
 
 ### hanlp练习
+
+
+
+
+[百度AI社区：语言处理基础技术](http://ai.baidu.com/forum/topic/list/169)

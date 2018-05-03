@@ -27,8 +27,13 @@ public class Sample {
 
         // 调用接口
         String text = "百度是一家高科技公司";
+        //1. 词法分析
         JSONObject res = client.lexer(text, null);
         System.out.println(res.toString(2));
+
+
+
+
         
     }
 }
