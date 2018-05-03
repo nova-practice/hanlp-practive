@@ -63,3 +63,12 @@ SDK源码地址: [https://github.com/Baidu-AIP/java-sdk](https://github.com/Baid
 
 
 [百度AI社区：语言处理基础技术](http://ai.baidu.com/forum/topic/list/169)
+
+
+
+
+百度的自然语言处理，三个模块
+
+- 语言处理基础技术
+- 理解与交互技术UNIT
+- 文本审核
